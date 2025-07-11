@@ -234,7 +234,7 @@ export default function HomeScreen() {
         ) )
         {!productsLoading && data?.products.length == 0 && (
           <Box className='mt-4 w-full items-center justify-center rounded-lg'>
-            <Text>Empty</Text>
+            <Text>Empty is Empty</Text>
           </Box>
         )}
         if (!productsLoading && (
