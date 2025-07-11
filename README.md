@@ -5,7 +5,7 @@
 hopping Now is a modern e-commerce mobile application that allows users to browse through various categories, view product recommendations, add items to the shopping cart, and make purchases all in one place.
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/zinlynnhtun/shopping/blob/main/assets/images/shop/banner6.jpg)
 
 
 ## Screenshots
