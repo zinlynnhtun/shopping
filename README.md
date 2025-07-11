@@ -9,9 +9,11 @@ hopping Now is a modern e-commerce mobile application that allows users to brows
 
 
 ## Screenshots
+<p float="left">
+<img src="https://github.com/zinlynnhtun/shopping/blob/main/assets/images/shop/gitphoto1.jpeg" width="30%" height="500">
+<img src="https://github.com/zinlynnhtun/shopping/blob/main/assets/images/shop/gitphoto2.jpeg" width="30%" height="500">
+</p>
 
-<img src="https://github.com/zinlynnhtun/shopping/blob/main/assets/images/shop/gitphoto1.jpeg" width="35%" height="500">
-<img src="https://github.com/zinlynnhtun/shopping/blob/main/assets/images/shop/gitphoto2.jpeg" width="35%" height="500">
 ## Tech Stack
 
 **Client:** React, ReactNative, TailwindCSS
